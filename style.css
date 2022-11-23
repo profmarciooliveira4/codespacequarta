@@ -1,0 +1,17 @@
+body {
+    background-color: ghostwhite;
+}
+
+h1 { 
+    text-align: center;
+    color: red;
+}
+
+h2 { 
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+    color: green;
+}
